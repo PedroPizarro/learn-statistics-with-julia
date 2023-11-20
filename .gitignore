@@ -305,3 +305,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+
+# Ignores the book code
+*StatisticsWithJuliaPlutoNotebooks.jl
